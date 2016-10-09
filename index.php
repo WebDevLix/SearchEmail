@@ -1,5 +1,11 @@
 <?php
 
+/*
+* С этого файла происходят все манипуляции экспортом емейлов с сайтов
+* author WebDevLix
+* date 09.10.2016
+*/
+
 # Connect Class Email Search
 require_once ('EmailSearch.inc.php');
 
