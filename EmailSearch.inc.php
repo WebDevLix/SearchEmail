@@ -51,5 +51,5 @@ class EmailSearch
         $ret .= sprintf("?%s", $arUrl["query"]);
 
     return $ret;
-		}
+	}
 }
