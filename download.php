@@ -5,7 +5,7 @@
 * author WebDevLix
 * 09.10.2016
 */
-$file = ('email_'.$_SERVER['REMOTE_ADDR'].'.txt');
+ $file = ('email_'.$_SERVER['REMOTE_ADDR'].'.txt');
 if(file_exists($file))
 	{
 header ("Content-Type: application/octet-stream");
