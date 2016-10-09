@@ -5,3 +5,7 @@ SearchEmail - library for parsing email addresses
 На данный момент никакого дизайна нету, в планах сделать простой Bootstrap шаблон.
 Все права защищены! Единоличным автором библиотеки является @WebDevLix
 Доработки библиотеки и встаивания в движки за отдельную плату.
+Контакты:
+Skype: Check_Dev null
+Email: mr.kokhans@mail.ru
+Вконтакте: vk.com/webdevlix
